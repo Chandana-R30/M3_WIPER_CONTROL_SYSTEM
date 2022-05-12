@@ -61,6 +61,7 @@ After wiping the windsheet of motor vehicles, the LED displays the position of t
 # Requirements
 
 High level requirements|ID	Discription	status
+----|--------------
 HR_01	Lock and Unlock of car|Implemented
 HR_02	be able to ON the wipers and control their speed|Implemented
 HR_03	Activating the Wiper System|Implemented
@@ -69,7 +70,9 @@ HR_04	Deactivating the Wiper System|Implemented
 # Low level requirements
 
 Low level requirements|ID	Discription	status
+----|--------------
 LR_01	If the Button pressed ONCE - ON RED LED|Implemented
 LR_02	If the Button pressed TWICE - OFF RED LED|Implemented
 LR_03	If the Button pressed THRICE - ON BLUE,GREEN,ORANGE LEDs|Implemented
 LR_04	If the Button pressed FOUR times - ON ORANGE,GREEN,BLUE LEDs|Implemented
+
